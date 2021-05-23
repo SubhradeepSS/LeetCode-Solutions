@@ -32,7 +32,7 @@ fs.readFile('problems.json', (err, problems) => {
 
         const filePath = directory + `/${problem.title}.${fileExtension}`
 
-        code_directories.push(`/${problem.lang == 'python3' ? 'python' : problem.lang}/${problem.title}.${fileExtension}`)
+        code_directories.push(`/${problem.lang == 'python3' ? 'python' : problem.lang}/${problem.title.split(' ').join('%20')}.${fileExtension}`)
 
         fs.writeFileSync(filePath, problem.code)
     })
