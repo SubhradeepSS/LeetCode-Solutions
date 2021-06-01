@@ -312,3 +312,4 @@
 | [Determine if String Halves Are Alike](https://www.leetcode.com/problems/determine-if-string-halves-are-alike/) | [cpp](https://github.com/SubhradeepSS/LeetCode-Solutions/blob/master/cpp/Determine%20if%20String%20Halves%20Are%20Alike.cpp)
 | [Combine Two Tables](https://www.leetcode.com/problems/combine-two-tables/) | [mysql](https://github.com/SubhradeepSS/LeetCode-Solutions/blob/master/mysql/Combine%20Two%20Tables.sql)
 | [Tenth Line](https://www.leetcode.com/problems/tenth-line/) | [bash](https://github.com/SubhradeepSS/LeetCode-Solutions/blob/master/bash/Tenth%20Line.sh)
+| [Max Area of Island](https://www.leetcode.com/problems/max-area-of-island/) | [java](https://github.com/SubhradeepSS/LeetCode-Solutions/blob/master/java/Max%20Area%20of%20Island.java)
